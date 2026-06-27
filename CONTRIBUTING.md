@@ -1,10 +1,10 @@
-Ways to Contribute
+# Ways to Contribute
 
 There are many ways to contribute to Open Mission.
 
 You can help by contributing to:
 
-Software
+## Software
 
 * Report bugs
 * Develop new features
@@ -13,14 +13,14 @@ Software
 * Design user interfaces
 * Test applications
 
-Documentation
+## Documentation
 
 * Improve documentation
 * Write tutorials
 * Translate content
 * Create guides
 
-Knowledge
+## Knowledge
 
 * Share best practices
 * Propose open standards
@@ -28,7 +28,7 @@ Knowledge
 * Improve project architecture
 * Participate in RFCs and discussions
 
-Community
+## Community
 
 * Answer questions
 * Mentor contributors
