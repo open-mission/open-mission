@@ -1,3 +1,5 @@
+# Open Mission
+
 <p align="center">
   <img src="https://github.com/open-mission.png" width="180" alt="Open Mission Logo">
 </p>
@@ -5,7 +7,7 @@
 <h1 align="center">Open Mission</h1>
 
 <p align="center">
-Building open-source technology to serve the Church.
+Building open-source technology for biblical engagement.
 </p>
 
 <p align="center">
@@ -16,13 +18,13 @@ Building open-source technology to serve the Church.
 
 </p>
 
-> Building open-source technology to serve the Church.
+> Building open-source technology for biblical engagement.
 
-Open Mission is a Christian open-source initiative dedicated to creating free, modern, and accessible technology that helps people engage with the Bible, grow in faith, and support churches and ministries around the world.
+Open Mission is a Christian open-source initiative dedicated to creating free, modern, and accessible technology that helps people engage with Scripture, grow in faith, and support churches and ministries around the world.
 
 We believe technology should remove barriers—not create them.
 
-Our mission is to build an ecosystem of high-quality open-source software that empowers individuals, churches, ministries, educators, and developers to create, share, and improve tools that serve others.
+Our mission is to build an ecosystem of high-quality open-source software that empowers individuals, churches, ministries, educators, translators, and developers to create, share, and improve tools that serve others.
 
 ---
 
@@ -30,17 +32,18 @@ Our mission is to build an ecosystem of high-quality open-source software that e
 
 Many digital tools used by churches and ministries are expensive, proprietary, or difficult to customize.
 
-For small churches, missionaries, non-profit organizations, and independent developers, these barriers often make technology inaccessible.
+For small churches, missionaries, non-profit organizations, translators, and independent developers, these barriers often make technology inaccessible.
 
 Open Mission exists to change that.
 
 We believe Christian technology should be:
 
-- **Free** whenever possible
-- **Open source**
-- **Community-driven**
-- **Modern and cross-platform**
-- **Built for long-term sustainability**
+* **Free** whenever possible
+* **Open source**
+* **Community-driven**
+* **Modern**
+* **Cross-platform**
+* **Built for long-term sustainability**
 
 By developing software in the open, we hope to create solutions that anyone can use, improve, and adapt to their local needs.
 
@@ -66,7 +69,7 @@ Our projects are inspired by Christian values and are designed to serve churches
 
 Knowledge grows when it is shared.
 
-We develop in public whenever possible and encourage collaboration from people all over the world.
+We develop in public whenever possible and encourage collaboration from people around the world.
 
 ## ⭐ Excellence
 
@@ -84,7 +87,7 @@ We value respectful collaboration, transparency, and kindness in every interacti
 
 Projects should outlive their creators.
 
-We design our software, documentation, and governance so communities can continue maintaining them for years to come.
+We design our software, documentation, and governance so communities—not individuals—can continue maintaining them for years to come.
 
 ## ♿ Accessibility
 
@@ -94,27 +97,56 @@ Whenever possible, our software will remain free and accessible.
 
 ---
 
+# Principles
+
+Every Open Mission project should strive to be:
+
+* Open by default
+* Built in public
+* Offline-first whenever possible
+* Cross-platform
+* Privacy-friendly
+* Accessible
+* Well documented
+* Sustainable
+* Easy to contribute to
+
+---
+
+# Ecosystem
+
+```
+Open Mission
+├── 📖 Open Bible
+├── 📚 Bible Data
+├── 🔌 APIs
+├── 🎨 Shared Libraries
+└── 🚀 Future Projects
+```
+
+---
+
 # Projects
 
 ## 📖 Open Bible
 
-A modern Bible application built for mobile, desktop, and the web.
+A modern Bible application for mobile, desktop, and the web.
 
 Current goals include:
 
-- Offline reading
-- Multiple Bible translations
-- Notes and highlights
-- Powerful search
-- Reading plans
-- Cross-platform experience
-- Future collaboration features
+* Offline reading
+* Multiple Bible translations
+* Notes and highlights
+* Powerful search
+* Reading plans
+* Cross-platform experience
+* Future collaboration features
 
 ---
 
 ## 📚 Bible Data
 
-An open repository containing Bible translations and structured biblical datasets that can be reused by applications, churches, ministries, and researchers.
+An open repository containing Bible translations and structured biblical datasets that can be reused by applications, churches, ministries, translators, and researchers.
 
 ---
 
@@ -122,30 +154,32 @@ An open repository containing Bible translations and structured biblical dataset
 
 As Open Mission grows, we plan to develop additional tools, including:
 
-- Church management tools
-- Bible study resources
-- APIs
-- Devotional platforms
-- Shared UI libraries
-- Open infrastructure for Christian applications
+* Church management tools
+* Bible study resources
+* APIs
+* Devotional platforms
+* Shared UI libraries
+* Open infrastructure
+* Developer SDKs
+* Educational tools
 
 ---
 
-# Technology
+# Built in Public
 
-We believe in choosing technologies that balance simplicity, performance, portability, and long-term maintainability.
+Whenever possible, our discussions, roadmaps, architectural decisions, and development happen in public.
 
-Current technologies include:
+We believe transparency builds trust, encourages collaboration, and creates better software.
 
-- SwiftUI
-- Flutter
-- Tauri
-- SQLite
-- Turso
-- TypeScript
-- Rust
+---
 
-As the ecosystem evolves, our technology stack may change while our principles remain the same.
+# Current Status
+
+Open Mission is in its early stages.
+
+We are currently building the foundation of the ecosystem, starting with Open Bible and Bible Data.
+
+If you'd like to help shape the future of the project, now is the perfect time to get involved.
 
 ---
 
@@ -157,16 +191,25 @@ You don't need to be a software engineer to help.
 
 You can contribute by:
 
-- Writing documentation
-- Reporting bugs
-- Translating content
-- Designing user interfaces
-- Developing new features
-- Improving accessibility
-- Reviewing code
-- Sharing ideas and feedback
+* Writing documentation
+* Reporting bugs
+* Translating content
+* Designing user interfaces
+* Developing features
+* Improving accessibility
+* Reviewing code
+* Testing applications
+* Sharing ideas and feedback
 
 Please read **CONTRIBUTING.md** before opening issues or pull requests.
+
+---
+
+# Get Involved
+
+Whether you're a developer, designer, translator, writer, pastor, missionary, educator, or simply passionate about making biblical resources more accessible, we'd love your help.
+
+Every contribution matters.
 
 ---
 
@@ -176,9 +219,17 @@ We are not building a single application.
 
 We are building an ecosystem.
 
-Our long-term vision is to create a sustainable collection of open-source projects that enable churches, ministries, missionaries, educators, developers, and volunteers to collaborate in creating technology that serves people around the world.
+Our long-term vision is to create a sustainable collection of open-source projects that enable churches, ministries, missionaries, educators, developers, translators, and volunteers to collaborate in creating technology that serves people around the world.
 
-We believe that open collaboration can become a meaningful way to serve others and make biblical resources more accessible for everyone.
+We believe open collaboration can become a meaningful way to make biblical resources more accessible for everyone.
+
+---
+
+# Governance
+
+Open Mission is community-driven.
+
+The project is currently maintained by its founding team, with the long-term goal of building an open governance model that enables trusted community members to participate in decision-making.
 
 ---
 
