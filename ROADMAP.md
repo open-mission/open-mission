@@ -76,6 +76,10 @@ Potential initiatives include:
 * Biblical dictionaries
 * Maps and timelines
 * Educational resources
+* Knowledge repositories
+* Community playbooks
+* Open standards
+* Educational content
 
 Every new project should strengthen the ecosystem rather than exist in isolation.
 
