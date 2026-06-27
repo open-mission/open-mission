@@ -1,71 +1,80 @@
 # Open Mission
 
-Open Mission is a Christian open-source initiative. Our projects are inspired by Christian values and are created to serve the Church and anyone interested in engaging with the Bible. We welcome contributors from all backgrounds who respect the mission and values of the project.
+> Building open-source technology to serve the Church.
 
-
-> Open Mission is an open-source initiative dedicated to creating free, modern, and accessible technology that helps people know God's Word, grow in faith, and serve their communities.
+Open Mission is a Christian open-source initiative dedicated to creating free, modern, and accessible technology that helps people engage with the Bible, grow in faith, and support churches and ministries around the world.
 
 We believe technology should remove barriers—not create them.
 
-Our goal is to build an ecosystem of high-quality open-source projects that empower individuals, churches, ministries, and developers around the world.
+Our mission is to build an ecosystem of high-quality open-source software that empowers individuals, churches, ministries, educators, and developers to create, share, and improve tools that serve others.
 
 ---
 
-## Why Open Mission?
+# Why Open Mission?
 
-Many Christian digital tools are expensive, closed-source, or difficult to customize.
+Many digital tools used by churches and ministries are expensive, proprietary, or difficult to customize.
 
-Small churches, missionaries, and independent ministries often lack access to quality technology because of licensing costs or proprietary ecosystems.
+For small churches, missionaries, non-profit organizations, and independent developers, these barriers often make technology inaccessible.
 
 Open Mission exists to change that.
 
-We build software that is:
+We believe Christian technology should be:
 
-- Free to use
-- Open source
-- Community driven
-- Modern and cross-platform
-- Built with long-term sustainability in mind
+- **Free** whenever possible
+- **Open source**
+- **Community-driven**
+- **Modern and cross-platform**
+- **Built for long-term sustainability**
+
+By developing software in the open, we hope to create solutions that anyone can use, improve, and adapt to their local needs.
 
 ---
 
 # Our Mission
 
-Our mission is to create technology that helps people engage with Scripture and equips ministries through open collaboration.
+Our mission is to build open technology that helps people engage with Scripture and equips ministries through collaboration.
 
-We believe open-source software can become a powerful way to serve the Kingdom by enabling anyone to build, improve, and share tools without unnecessary barriers.
+We believe open-source software is one of the most effective ways to share knowledge, encourage innovation, and remove unnecessary barriers that prevent churches and ministries from accessing quality technology.
+
+Open Mission is inspired by Christian values while welcoming contributions from anyone who respects the project's mission and community.
 
 ---
 
-# Core Values
+# Our Values
 
-## Faith
+## ✝️ Faith
 
-Everything we build should ultimately serve people and point them toward God's Word.
+Our projects are inspired by Christian values and are designed to serve churches, ministries, and everyone interested in studying the Bible.
 
-## Openness
+## 🌍 Openness
 
 Knowledge grows when it is shared.
 
-We develop in public whenever possible and encourage collaboration from developers around the world.
+We develop in public whenever possible and encourage collaboration from people all over the world.
 
-## Excellence
+## ⭐ Excellence
 
 Open source should never mean lower quality.
 
-We strive to build software that is beautiful, reliable, maintainable, and enjoyable to use.
+We strive to build software that is reliable, beautiful, maintainable, and enjoyable to use.
 
-## Accessibility
+## 🤝 Community
 
-Technology should be available regardless of financial resources.
+Great software is built together.
 
-Whenever possible, our projects should remain free and accessible.
+We value respectful collaboration, transparency, and kindness in every interaction.
 
-## Sustainability
+## 🌱 Sustainability
 
-Projects should be designed to last.
+Projects should outlive their creators.
 
-This means choosing technologies, architectures, and governance models that allow communities—not individuals—to maintain them over time.
+We design our software, documentation, and governance so communities can continue maintaining them for years to come.
+
+## ♿ Accessibility
+
+Technology should be available regardless of financial resources or technical background.
+
+Whenever possible, our software will remain free and accessible.
 
 ---
 
@@ -75,30 +84,30 @@ This means choosing technologies, architectures, and governance models that allo
 
 A modern Bible application built for mobile, desktop, and the web.
 
-Features include:
+Current goals include:
 
 - Offline reading
 - Multiple Bible translations
-- Notes
-- Highlights
-- Search
+- Notes and highlights
+- Powerful search
 - Reading plans
+- Cross-platform experience
 - Future collaboration features
 
 ---
 
 ## 📚 Bible Data
 
-An open repository containing Bible translations and structured biblical datasets that can be reused by applications and ministries.
+An open repository containing Bible translations and structured biblical datasets that can be reused by applications, churches, ministries, and researchers.
 
 ---
 
 ## 🚀 Future Projects
 
-Our long-term vision includes:
+As Open Mission grows, we plan to develop additional tools, including:
 
-- Church tools
-- Study resources
+- Church management tools
+- Bible study resources
 - APIs
 - Devotional platforms
 - Shared UI libraries
@@ -108,9 +117,9 @@ Our long-term vision includes:
 
 # Technology
 
-We embrace modern technologies that prioritize simplicity, performance, and long-term maintainability.
+We believe in choosing technologies that balance simplicity, performance, portability, and long-term maintainability.
 
-Current stack includes:
+Current technologies include:
 
 - SwiftUI
 - Flutter
@@ -120,50 +129,51 @@ Current stack includes:
 - TypeScript
 - Rust
 
-As the ecosystem evolves, technologies may change while keeping the same principles.
+As the ecosystem evolves, our technology stack may change while our principles remain the same.
 
 ---
 
 # Contributing
 
-Open Mission welcomes contributions of every kind.
+Open Mission welcomes contributors from all backgrounds.
 
-You don't need to be a software engineer.
+You don't need to be a software engineer to help.
 
-You can help by:
+You can contribute by:
 
 - Writing documentation
 - Reporting bugs
 - Translating content
-- Designing interfaces
-- Developing features
+- Designing user interfaces
+- Developing new features
 - Improving accessibility
 - Reviewing code
+- Sharing ideas and feedback
 
-See `CONTRIBUTING.md` for details.
+Please read **CONTRIBUTING.md** before opening issues or pull requests.
 
 ---
 
 # Vision
 
-We don't want to build just another application.
+We are not building a single application.
 
-We want to build an ecosystem.
+We are building an ecosystem.
 
-An ecosystem where churches, ministries, missionaries, educators, and developers can freely create technology that serves the Kingdom.
+Our long-term vision is to create a sustainable collection of open-source projects that enable churches, ministries, missionaries, educators, developers, and volunteers to collaborate in creating technology that serves people around the world.
 
-Open Mission is a long-term commitment to openness, collaboration, and service.
+We believe that open collaboration can become a meaningful way to serve others and make biblical resources more accessible for everyone.
 
 ---
 
 # License
 
-Unless otherwise specified, projects are released under open-source licenses.
+Each repository defines its own license.
 
-See each repository for its individual license.
+Unless otherwise specified, Open Mission projects are released under OSI-approved open-source licenses.
 
 ---
 
-> "Freely you received; freely give."
+> *"Freely you have received; freely give."*
 >
-> — Matthew 10:8
+> **Matthew 10:8**
