@@ -6,7 +6,7 @@ The Open Mission community takes security seriously.
 
 If you discover a security vulnerability in any Open Mission project, please report it responsibly so we can investigate and address the issue before public disclosure.
 
-⸻
+---
 
 ## Reporting a Vulnerability
 
@@ -21,7 +21,7 @@ Instead, contact the project maintainers privately with as much information as p
 
 We will acknowledge your report as soon as possible and work toward a resolution.
 
-⸻
+---
 
 ## Responsible Disclosure
 
@@ -29,7 +29,7 @@ We ask that you give the maintainers reasonable time to investigate and fix the 
 
 Responsible disclosure helps protect users and projects across the Open Mission ecosystem.
 
-⸻
+---
 
 ## Supported Projects
 
@@ -37,7 +37,7 @@ Security updates are prioritized for actively maintained repositories.
 
 Each repository may define additional security policies specific to that project.
 
-⸻
+---
 
 ## Our Commitment
 
