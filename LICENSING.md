@@ -1,6 +1,6 @@
-LICENSING
+# LICENSING
 
-Licensing Policy
+## Licensing Policy
 
 Open Mission is an ecosystem composed of different types of projects, including software, documentation, datasets, standards, and educational resources.
 
@@ -8,9 +8,9 @@ Because these projects serve different purposes, a single license is not appropr
 
 This document explains the licensing philosophy adopted by Open Mission.
 
-⸻
+---
 
-Our Philosophy
+## Our Philosophy
 
 Whenever possible, Open Mission chooses licenses that encourage:
 
@@ -22,13 +22,13 @@ Whenever possible, Open Mission chooses licenses that encourage:
 
 We believe licensing should remove barriers while respecting authors, contributors, and original content owners.
 
-⸻
+---
 
-Software
+## Software
 
 Applications, libraries, SDKs, and developer tools are generally licensed under the Apache License 2.0.
 
-Why Apache 2.0?
+## Why Apache 2.0?
 
 * Permissive and business-friendly.
 * Protects contributors through an explicit patent grant.
@@ -42,9 +42,9 @@ Examples:
 * SDKs
 * APIs
 
-⸻
+---
 
-Organization Repositories
+## Organization Repositories
 
 Repositories focused on governance, templates, or organization-wide documentation may use the MIT License due to its simplicity.
 
@@ -54,9 +54,9 @@ Examples:
 * Repository templates
 * Utility scripts
 
-⸻
+---
 
-Documentation & Knowledge
+## Documentation & Knowledge
 
 Documentation, guides, tutorials, playbooks, and educational resources are generally licensed under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
 
@@ -77,9 +77,9 @@ Examples:
 * Best Practices
 * Tutorials
 
-⸻
+---
 
-Standards & Specifications
+## Standards & Specifications
 
 Open standards should encourage the widest possible adoption.
 
@@ -93,9 +93,9 @@ Examples:
 * File formats
 * Metadata standards
 
-⸻
+---
 
-Datasets
+## Datasets
 
 Datasets require special consideration.
 
@@ -112,23 +112,23 @@ Each dataset repository should clearly document:
 
 Open Mission will always respect the licensing terms established by original content owners.
 
-⸻
+---
 
-Third-Party Content
+## Third-Party Content
 
 Not every resource included in the ecosystem belongs to Open Mission.
 
 Whenever third-party content is used, its original license must be preserved and properly attributed.
 
-⸻
+---
 
-Future Changes
+## Future Changes
 
 This licensing policy may evolve as the ecosystem grows.
 
 Any significant licensing changes should be discussed publicly and documented before adoption.
 
-⸻
+---
 
 Questions
 
