@@ -101,6 +101,10 @@ Open Mission develops and maintains projects that contribute to an open ecosyste
 * Developer tools
 * Documentation
 * Open standards
+* Knowledge bases
+* Best practices
+* Playbooks
+* Educational resources
 
 Each project should strengthen the ecosystem as a whole.
 
