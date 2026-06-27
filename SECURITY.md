@@ -1,6 +1,6 @@
-SECURITY
+# SECURITY
 
-Security Policy
+## Security Policy
 
 The Open Mission community takes security seriously.
 
@@ -8,7 +8,7 @@ If you discover a security vulnerability in any Open Mission project, please rep
 
 ⸻
 
-Reporting a Vulnerability
+## Reporting a Vulnerability
 
 Please avoid creating a public GitHub Issue for security vulnerabilities.
 
@@ -23,7 +23,7 @@ We will acknowledge your report as soon as possible and work toward a resolution
 
 ⸻
 
-Responsible Disclosure
+## Responsible Disclosure
 
 We ask that you give the maintainers reasonable time to investigate and fix the issue before publicly disclosing it.
 
@@ -31,7 +31,7 @@ Responsible disclosure helps protect users and projects across the Open Mission 
 
 ⸻
 
-Supported Projects
+## Supported Projects
 
 Security updates are prioritized for actively maintained repositories.
 
@@ -39,7 +39,7 @@ Each repository may define additional security policies specific to that project
 
 ⸻
 
-Our Commitment
+## Our Commitment
 
 We appreciate everyone who helps improve the security of Open Mission.
 
