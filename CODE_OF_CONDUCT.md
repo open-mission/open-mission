@@ -1,4 +1,4 @@
-CODE OF CONDUCT
+# CODE OF CONDUCT
 
 Our Pledge
 
@@ -10,7 +10,7 @@ Regardless of background, experience, identity, beliefs, or skill level, everyon
 
 ⸻
 
-Our Standards
+# Our Standards
 
 Examples of behavior that contribute to a positive environment include:
 
@@ -25,7 +25,7 @@ Examples of behavior that contribute to a positive environment include:
 
 ⸻
 
-Unacceptable Behavior
+# Unacceptable Behavior
 
 The following behaviors are not acceptable within the Open Mission community:
 
@@ -38,7 +38,7 @@ The following behaviors are not acceptable within the Open Mission community:
 
 ⸻
 
-Community Philosophy
+# Community Philosophy
 
 Open Mission exists to build open knowledge, open data, and open technology through collaboration.
 
@@ -48,7 +48,7 @@ Disagreements are natural, but they should always remain respectful and focused 
 
 ⸻
 
-Enforcement
+# Enforcement
 
 Project maintainers are responsible for clarifying and enforcing this Code of Conduct.
 
@@ -58,7 +58,7 @@ Repeated or severe violations may result in temporary or permanent restrictions 
 
 ⸻
 
-Reporting
+# Reporting
 
 If you experience or witness unacceptable behavior, please contact the project maintainers privately.
 
@@ -66,7 +66,7 @@ Every report will be handled respectfully and, whenever possible, confidentially
 
 ⸻
 
-Scope
+# Scope
 
 This Code of Conduct applies to all Open Mission spaces, including:
 
@@ -79,7 +79,7 @@ This Code of Conduct applies to all Open Mission spaces, including:
 
 ⸻
 
-Our Commitment
+# Our Commitment
 
 We are building more than software.
 
