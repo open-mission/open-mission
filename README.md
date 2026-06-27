@@ -117,10 +117,7 @@ Every Open Mission project should strive to be:
 
 ```
 Open Mission
-├── 📖 Open Bible
-├── 📚 Bible Data
-├── 🔌 APIs
-├── 🎨 Shared Libraries
+├── 📖 Open Bible (In Development)
 └── 🚀 Future Projects
 ```
 
@@ -143,11 +140,11 @@ Current goals include:
 * Future collaboration features
 
 ---
-
+<!--
 ## 📚 Bible Data
 
 An open repository containing Bible translations and structured biblical datasets that can be reused by applications, churches, ministries, translators, and researchers.
-
+-->
 ---
 
 ## 🚀 Future Projects
