@@ -7,7 +7,7 @@
 <h1 align="center">Open Mission</h1>
 
 <p align="center">
-Building open-source technology for biblical engagement.
+Building open knowledge, open data, and open technology for biblical engagement.
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@ Building open-source technology for biblical engagement.
 
 </p>
 
-> Building open-source technology for biblical engagement.
 
 Open Mission is a Christian open-source initiative dedicated to creating free, modern, and accessible technology that helps people engage with Scripture, grow in faith, and support churches and ministries around the world.
 
