@@ -1,4 +1,20 @@
-# Open Mission
+<p align="center">
+  <img src="https://github.com/open-mission.png" width="180" alt="Open Mission Logo">
+</p>
+
+<h1 align="center">Open Mission</h1>
+
+<p align="center">
+Building open-source technology to serve the Church.
+</p>
+
+<p align="center">
+
+![License](https://img.shields.io/badge/license-Open%20Source-blue)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Status](https://img.shields.io/badge/status-active-success)
+
+</p>
 
 > Building open-source technology to serve the Church.
 
