@@ -1,6 +1,5 @@
-GOVERNANCE
+# GOVERNANCE
 
-Governance
 
 Open Mission is a community-driven open-source initiative.
 
@@ -8,9 +7,9 @@ Our goal is to build an ecosystem that can grow beyond its original creators whi
 
 This document describes how decisions are made and how the project is expected to evolve over time.
 
-⸻
+---
 
-Current Stage
+## Current Stage
 
 Open Mission is currently maintained by its founding team.
 
@@ -24,9 +23,9 @@ During this stage, the founders are responsible for:
 
 Community feedback is always encouraged and appreciated.
 
-⸻
+---
 
-Decision Making
+## Decision Making
 
 Whenever possible, decisions should be made openly through GitHub Discussions and Issues.
 
@@ -34,9 +33,9 @@ For significant changes, maintainers may propose design documents or RFCs before
 
 The goal is to encourage collaboration while maintaining a clear direction for the project.
 
-⸻
+---
 
-Becoming a Maintainer
+## Becoming a Maintainer
 
 As the community grows, trusted contributors may be invited to become maintainers.
 
@@ -50,9 +49,9 @@ Maintainers are expected to:
 
 Maintainer status is based on consistent contributions and community trust, not only on code contributions.
 
-⸻
+---
 
-Project Governance
+## Project Governance
 
 Open Mission values consensus whenever possible.
 
@@ -60,9 +59,9 @@ When consensus cannot be reached, the maintainers will make the final decision w
 
 As the project matures, the governance model may evolve to include broader community participation.
 
-⸻
+---
 
-Transparency
+## Transparency
 
 Whenever possible, important decisions should be documented publicly.
 
@@ -75,9 +74,9 @@ This includes:
 
 Transparency helps build trust and encourages long-term collaboration.
 
-⸻
+---
 
-Long-Term Vision
+## Long-Term Vision
 
 Our long-term goal is for Open Mission to become a sustainable, community-maintained ecosystem.
 
@@ -85,9 +84,9 @@ The success of the project should never depend on a single individual.
 
 Instead, we aim to build a healthy community capable of maintaining and evolving the ecosystem together.
 
-⸻
+---
 
-Governance Evolution
+## Governance Evolution
 
 This document is expected to evolve as the Open Mission community grows.
 
