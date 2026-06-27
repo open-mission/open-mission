@@ -2,7 +2,7 @@
 
 # Our Mission
 
-Open Mission exists to build open-source technology that makes biblical resources more accessible to everyone.
+Open Mission exists to build open knowledge, open data, and open-source technology that make biblical resources more accessible to everyone.
 
 We believe churches, ministries, educators, missionaries, researchers, and individuals should have access to modern, high-quality software without unnecessary financial or technical barriers.
 
